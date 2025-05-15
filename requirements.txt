@@ -4,3 +4,5 @@ seaborn
 nbconvert
 pandoc
 statsmodels
+numpy
+scikit-learn
